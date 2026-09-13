@@ -251,7 +251,7 @@ function App() {
                 <div className="relative overflow-hidden rounded-[28px] border border-white/10 bg-slate-900/90 p-3">
                   <div className="relative flex items-center justify-center overflow-hidden rounded-[20px] bg-[linear-gradient(135deg,#0f172a,#111827_35%,#090e14)] p-3">
                     <img
-                      src="/profile.jpg"
+                      src={`${import.meta.env.BASE_URL}profile.jpg`}
                       alt="Profile portrait"
                       className="h-[460px] w-full rounded-[18px] object-cover object-center"
                     />

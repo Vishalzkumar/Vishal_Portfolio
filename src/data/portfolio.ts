@@ -75,7 +75,7 @@ export const portfolio = {
   email: 'panditvishal010@gmail.com',
   github: '#contact',
   linkedin: '#contact',
-  resumeLink: '/Vishal_Kumar_Resume.pdf',
+  resumeLink: 'Vishal_Kumar_Resume.pdf',
   navItems: [
     { label: 'Home', href: '#home' },
     { label: 'About', href: '#about' },
